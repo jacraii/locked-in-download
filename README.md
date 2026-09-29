@@ -2,7 +2,7 @@
 
 **Less feed. More done.** Locked In is a free focus app for students. Tell the coach what you're avoiding, turn it into one task, then lock in: a timer runs and the apps and websites you choose stay on hold until it ends.
 
-**[Download for Windows](https://github.com/jacraii/locked-in-download/releases/latest)** · Windows 10 and 11, 64-bit, about 1 GB · [Website](https://locked-in-focus.insyncai.chatgpt.site/)
+**[Download for Windows](https://github.com/jacraii/locked-in-download/releases/latest)** · Windows 10 and 11, 64-bit, about 1 GB · [Website](https://locked-in-focus.vercel.app/)
 
 ## Install
 
